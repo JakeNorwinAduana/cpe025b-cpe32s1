@@ -1,1 +1,1 @@
-# cpe025b-cpe32s1
+# CPE025b-CPE32S1
